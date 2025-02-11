@@ -113,8 +113,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 For any queries or collaborations, reach out:
-- **GitHub**: [your-username](https://github.com/rugvedp)
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/rugvedp)
+- **GitHub**: [Rugved](https://github.com/rugvedp)
+- **LinkedIn**: [Rugved Patil](https://linkedin.com/in/rugvedp)
 
 Happy coding! 🚀
 
